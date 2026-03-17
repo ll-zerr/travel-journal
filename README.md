@@ -41,5 +41,10 @@ With this project, I was able to test my React skills and enhance source code to
 
 Original Project idea:  Bob Ziroll [Learn React course by Scrimba in Coursera](https://www.coursera.org/learn/learn-react/)
 
-Destination Images:
-- []()
+Destination Images sourced from:
+- [Unsplash]()
+
+    - Sydney Opera House: [Florencia Lewis](https://unsplash.com/@florlewis)
+    - Geirangerfjord: [Sven](https://unsplash.com/@sphotos_00)
+
+- [Scrimba](https://scrimba.com/home)
