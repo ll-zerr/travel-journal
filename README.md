@@ -1,14 +1,14 @@
 # Travel Journal
 
-This is a Travel Journal project from the React course in the [Coursera]().
+This Travel Journal is one of the projects from a React course offered by Scrimba through [Coursera](https://www.coursera.org/learn/learn-react/).
 
 ## Project Details
 
-The goal of the project is to create a journal that offers information about key travel destinations. This project is part of my revisiting React series to practice my React skills.  
+The goal of the project is to create a journal that offers information about key travel destinations. It is part of my Revisiting React series where I review various React concepts to practice my React skills.  
 
-### View My Project: 
+### View My Project: [https://ll-zerr.github.io/travel-journal/](https://ll-zerr.github.io/travel-journal/)
 
-![Screenshot]()
+![Screenshot](./src/assets/mockup-travel-journal-crop.png)
 
 ## Features
 
@@ -30,7 +30,8 @@ The goal of the project is to create a journal that offers information about key
 - Create components for the header and destination entries.
 - Add styles for responsive web design.
 - Add links to data for image functionality when clicked that lead to destination pages for further information.
-- 
+- Modify package.json for deployment.
+- Refactor code and add imports for assets to fix deployment issues.
 
 ### Continued development
 
@@ -38,7 +39,7 @@ With this project, I was able to test my React skills and enhance source code to
 
 ## Acknowledgements
 
-Original Project idea:  [Coursera]()
+Original Project idea:  Bob Ziroll [Learn React course by Scrimba in Coursera](https://www.coursera.org/learn/learn-react/)
 
 Destination Images:
 - []()
