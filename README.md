@@ -1,10 +1,12 @@
 # Travel Journal
 
-This Travel Journal is one of the projects from a React course offered by Scrimba through [Coursera](https://www.coursera.org/learn/learn-react/).
+A React app showcasing global travel destinations with images, maps, and links for more information.
+
+This Travel Journal project was developed as part of the React course by Scrimba on [Coursera](https://www.coursera.org/learn/learn-react/). It's also part of my _Revisiting React_ series, where I revisit React fundamentals through small practical projects.
 
 ## Project Details
 
-The goal of the project is to create a journal that offers information about key travel destinations. It is part of my Revisiting React series where I review various React concepts to practice my React skills.  
+The goal of this project is to build an interactive journal that highlights notable travel destinations.  
 
 ### View My Project: [https://ll-zerr.github.io/travel-journal/](https://ll-zerr.github.io/travel-journal/)
 
@@ -12,9 +14,9 @@ The goal of the project is to create a journal that offers information about key
 
 ## Features
 
-- Use of React components to populate the page with different travel destinations.
-- When clicked, the destination image links to a travel page for information regarding the specific tourist spot.
-- There is also the option to view the tourist spot on Google Maps via a link. 
+- Built with reusable React components to dynamically display travel destinations.
+- Clicking a destination image opens a travel page with more details about the location.
+- Includes a link to view each destination on Google Maps. 
 
 ## Technologies Used
 
@@ -22,27 +24,31 @@ The goal of the project is to create a journal that offers information about key
 - CSS3
 - JavaScript
 - React
-- Vite
+- Vite (for fast build and local development)
 
 ## My Process
 
-- Start the files from a boiler template.
-- Create components for the header and destination entries.
-- Add styles for responsive web design.
-- Add links to data for image functionality when clicked that lead to destination pages for further information.
-- Modify package.json for deployment.
-- Refactor code and add imports for assets to fix deployment issues.
+- Started from a boiler template.
+- Created components for the header and destination entries.
+- Added styles for responsive web design.
+- Added clickable image links directing users to external pages for more information about each destination.
+- Modified package.json for deployment.
+- Refactored code and updated asset imports to resolve deployment issues.
 
 ### Continued development
 
-With this project, I was able to test my React skills and enhance source code to include supplimental features within the application. I want to apply testing knowledge to this project, in the future, to exercise the skills I am learning for QA purposes.
+Through this project, I reinforced my React skills and added supplemental features to enhance the user experience.
+
+**Future Test Plan:**
+- Add **Jest + React Testing Library** to verify component rendering, image links, and Google Maps integration.
+- Implement **Playwright E2E tests** to validate the complete user journey on the deployed site.
 
 ## Acknowledgements
 
-Original Project idea:  Bob Ziroll [Learn React course by Scrimba in Coursera](https://www.coursera.org/learn/learn-react/)
+Original Project idea by Bob Ziroll, from the [Learn React course by Scrimba on Coursera](https://www.coursera.org/learn/learn-react/).
 
-Destination Images sourced from:
-- [Unsplash]()
+**Destination Images sourced from:**
+- [Unsplash](https://unsplash.com/)
 
     - Sydney Opera House: [Florencia Lewis](https://unsplash.com/@florlewis)
     - Geirangerfjord: [Sven](https://unsplash.com/@sphotos_00)
